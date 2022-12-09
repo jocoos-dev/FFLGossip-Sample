@@ -1,0 +1,1 @@
+export { gossipClientAtom } from './chat';

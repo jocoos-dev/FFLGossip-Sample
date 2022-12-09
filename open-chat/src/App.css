@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  width: 100vh;
+  min-width: 780px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+img {
+  width: 100%;
+}
+
+.msger-input {
+  flex: 1;
+  background: #ddd;
+}
